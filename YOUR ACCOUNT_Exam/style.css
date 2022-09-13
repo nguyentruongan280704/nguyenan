@@ -1,0 +1,70 @@
+.contair{
+    width: 500px;
+    height: 500px;
+    margin-left: 70px;
+}
+.bolo{
+    position: relative;
+    top: 138px;
+    left: 384px;
+    font-size: 80px;
+}
+.a {
+    color: #4285F4;
+}
+
+.b {
+    color: #DB4437;
+}
+
+.c {
+    color: #F4B400;
+}
+
+.d {
+    color: #0F9D58;
+}
+.e{
+    color: #DB4437;
+}
+.h{
+ color: #F4B400;
+}
+.g{
+    color: #0F9D58;
+}
+input{
+    font-size: 20px;
+    position: relative;
+    top: 128px;
+    left: 390px;
+    background-color: azure;
+    
+}
+.fa-solid {
+    font-size: 35px;
+    top: 2px;
+    left: 1px;
+    position: relative;
+    color: white;
+}
+.rappe{
+    position: relative;
+    top: 133px;
+    left: 385px; 
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+#ttt{
+    position: relative;
+    top: -213px;
+    left: -230px;
+    width: 295px !important;
+    height: 100px;
+}
+
+
+
+
+
+
